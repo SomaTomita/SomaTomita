@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**SomaTomita/SomaTomita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!    
+I'm Soma Tomita a full-stack developer with experience in web technologies, backend systems, and cloud infrastructure.
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,typescript,python,react,vue,pinia,jquery,pug,nextjs,nodejs,rails,firebase,supabase,sequelize,prisma,postgres,mongodb,nginx,aws,docker,git,githubactions,vercel,vite,r)
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SomaTomita&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SomaTomita&theme=tokyonight)
