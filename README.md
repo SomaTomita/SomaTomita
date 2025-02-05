@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 Welcome to my GitHub!    
-I'm Soma Tomita a full-stack developer with experience in web technologies, backend systems, and cloud infrastructure.
+I’m Soma Tomita, a full-stack developer with expertise in web technologies, backend systems, and cloud infrastructure.
 
 ### 🚀 Technologies & Tools
 
