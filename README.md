@@ -4,7 +4,7 @@ Full-stack developer — web / backend / cloud infrastructure.
 
 ### 🚀 Technologies & Tools
 
-![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=js,typescript,react,mobx,vue,pinia,zustand,jquery,pug,nextjs,nodejs,python,rails,java,spring,firebase,supabase,sequelize,prisma,postgres,redis,aws,gcp,oracle,terraform,cloudflare,nginx,docker,vercel,git,githubactions,ansible,vite,vitest,playwright,claude,r)
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=js,typescript,react,mobx,vue,pinia,zustand,jquery,pug,nextjs,nodejs,python,rails,java,spring,firebase,supabase,sequelize,prisma,postgres,redis,aws,gcp,oracle,terraform,cloudflare,nginx,docker,vercel,git,githubactions,ansible,vite,vitest,playwright,claude,notion,slack,r)
 
 ### 📊 GitHub Stats
 
