@@ -8,7 +8,6 @@ Full-stack developer — web / backend / cloud infrastructure.
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SomaTomita&layout=compact&theme=tokyonight&langs_count=7&hide=html,css)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=SomaTomita&theme=tokyonight&hide_border=true&background=FFFFFF00)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SomaTomita&theme=tokyonight)
